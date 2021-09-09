@@ -1,10 +1,24 @@
 body{
     background-color:seashell;
-    margin: 100px;
+    margin: 100px; /*100px*/
 }
 h1, h2{
+    font-size: 45px;
     color:black;
     text-align: center;
+
+}
+h3{
+    font-size: 30px;
+    color:black;
+    text-align: center;
+    font-style: italic;
+}
+h4{
+    font-size: 20px;
+    color:black;
+    text-align: left;
+    margin-left: 100px;
 }
 a:link, a:visited {
     background-color: wheat;
@@ -24,7 +38,7 @@ a.educazione-civica{
 img.progetti{
     margin-left: 100px;
 }
-p{
+p, ol, span{
     margin-left: 100px;
     margin-right: 100px;
     text-align: justify;
@@ -37,4 +51,10 @@ q{
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-top: 10px;
     text-align: center;
+}
+a.home {
+    width: 5%;
+    height: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
