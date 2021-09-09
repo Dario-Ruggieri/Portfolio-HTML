@@ -1,5 +1,5 @@
 body{
-    background-color:seashell;
+    background-color:rgb(231, 188, 152); /*seashell*/
     margin: 100px; /*100px*/
 }
 h1, h2{
@@ -58,3 +58,14 @@ a.home {
     margin-top: 1%;
     margin-bottom: 1%;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(214, 168, 89);
+    color:black;
+    text-align: center;
+    height: 100px;
+ }
