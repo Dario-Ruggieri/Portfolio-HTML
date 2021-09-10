@@ -38,7 +38,7 @@ a.educazione-civica{
 img.progetti{
     margin-left: 100px;
 }
-p, ol, span{
+p, ol, span, ul{
     margin-left: 100px;
     margin-right: 100px;
     text-align: justify;
